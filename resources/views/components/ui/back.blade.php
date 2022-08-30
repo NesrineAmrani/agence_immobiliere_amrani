@@ -1,0 +1,1 @@
+<a href="{{ URL::previous() }}" class="py-2 px-4 hover:bg-gray-200 rounded-lg"><i class="fas fa-arrow-left"></i></a>
